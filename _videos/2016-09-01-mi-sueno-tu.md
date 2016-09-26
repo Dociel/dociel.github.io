@@ -6,7 +6,7 @@ tags: [Reik, Musica Romantica, Matisse, Camila, Amor, Latin Pop]
 ---
 Una de nuestras primeras composiciones.
 <br>
-Mi Sueño Tu
+<b>Mi Sueño Tu</b>
 <br>
 Eran los sueños de la juventud<br>
 Y en todos ellos te encontrabas tú.<br>

@@ -4,7 +4,7 @@ youtube_id: myvcOVHIEts
 date: 2016-08-31
 tags: [Reik, Musica Romantica, Matisse, Camila, Amor, Latin Pop]
 ---
-Gigante de Amor  
+<b>Gigante de Amor</b>
 <br>
 Quien diria que tu y yo<br>
 Estariamos aqui<br>
