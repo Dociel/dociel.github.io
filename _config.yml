@@ -1,7 +1,7 @@
 name: Dociel Music
 description: Pagina official de Dociel.
 url: 'http://www.dociel.com/'
-baseurl: 'www.dociel.com/'
+baseurl: 'www.dociel.com'
 email: docielmusic0@gmail.com
 twitter: https://twitter.com/dociel
 youtube: https://www.youtube.com/docielmusic
