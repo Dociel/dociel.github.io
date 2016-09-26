@@ -2,7 +2,7 @@
 title: Mi Sueño Tu (Feat. David Badillo) 
 youtube_id: Y8HRKEmyclo
 date: 2016-09-01
-tags: [Honey, Comb, Interview]
+tags: [Reik, Musica Romantica, Matisse, Camila, Amor, Latin Pop]
 ---
 Una de nuestras primeras composiciones.
 <br>
