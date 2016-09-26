@@ -1,0 +1,39 @@
+name: Dociel Music
+description: Pagina official de Dociel.
+url: 'http://www.dociel.com/'
+baseurl: '/dociel.github.io'
+email: docielmusic0@gmail.com
+twitter: https://twitter.com/dociel
+youtube: https://www.youtube.com/docielmusic
+facebook: https://www.facebook.com/DocielMusic
+google_analytics: 'UA-00000000-1'
+
+################################################################
+################################################################
+gems:
+  - jekyll-sitemap
+sass:
+  sass_dir: /assets/_sass
+  style: :compressed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - CNAME
+  - .gitignore
+collections:
+  videos:
+    output: true
+    permalink: /:path/
+defaults:
+  -
+    scope:
+      path: ''
+      type: posts
+    values:
+      layout: post
+  -
+    scope:
+      path: ''
+      type: videos
+    values:
+      layout: video
